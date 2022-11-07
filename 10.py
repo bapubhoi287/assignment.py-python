@@ -1,0 +1,4 @@
+#write a python script to print the octal equivalent of a given decimal number.(do not use oct()method)
+n=int(input("enter a number:"))
+m=oct(n)
+print(m)
